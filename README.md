@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Luana
+I´m developing in the javascript language
+I use this space to organize and share my projects developed
 
 <!--
 **carameloorosa/carameloorosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
